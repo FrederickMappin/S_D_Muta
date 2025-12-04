@@ -21,7 +21,6 @@ git clone <repo>
 
 ### Usage
 
-```
 
 Basic usage:
 ```
