@@ -14,7 +14,7 @@ A professional Python tool for designing mutagenic primers for site-directed mut
 
 ### Installation
 
-```bash
+```
 # Clone the repository
 git clone <repo>
 ```
@@ -24,12 +24,12 @@ git clone <repo>
 ```
 
 Basic usage:
-```bash
+```
 python main.py data/examples/input_gene.txt data/examples/input_mutaa.txt Human
 ```
 
 With custom output directory:
-```bash
+```
 python main.py data/examples/input_gene.txt data/examples/input_mutaa.txt Human output/my_results
 ```
 
