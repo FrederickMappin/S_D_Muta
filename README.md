@@ -17,21 +17,10 @@ A professional Python tool for designing mutagenic primers for site-directed mut
 ```bash
 # Clone the repository
 git clone <repo>
-cd sdm-mutagenesis
-
-# Create virtual environment
-python3 -m venv .venv
-source .venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
 ```
 
 ### Usage
 
-Activate the virtual environment first:
-```bash
-source .venv/bin/activate
 ```
 
 Basic usage:
@@ -42,11 +31,6 @@ python main.py data/examples/input_gene.txt data/examples/input_mutaa.txt Human
 With custom output directory:
 ```bash
 python main.py data/examples/input_gene.txt data/examples/input_mutaa.txt Human output/my_results
-```
-
-Or run directly without activating:
-```bash
-.venv/bin/python main.py data/examples/input_gene.txt data/examples/input_mutaa.txt Human
 ```
 
 ### Input Files
@@ -74,39 +58,7 @@ Each mutation generates a file with primer pairs showing:
 - **Tm** - Melting temperature
 - **Overlap_Tm** - Overlap region Tm for annealing
 
-## Project Structure
 
-```
-sdm-mutagenesis/
-├── src/                    # Source code modules
-│   ├── main.py            # Entry point
-│   ├── dna_utils.py       # DNA sequence handling
-│   ├── codon_utils.py     # Codon preference tables
-│   ├── mutation_utils.py  # Mutation parsing
-│   ├── primer_utils.py    # Primer generation
-│   └── output_utils.py    # File output
-├── data/
-│   ├── codon_preferences/ # Codon tables by species
-│   └── examples/          # Example input files
-├── output/                # Generated primer files
-├── tests/                 # Unit tests
-├── docs/                  # Documentation
-└── legacy/                # Previous versions
-```
-
-## Development
-
-### Running Tests
-
-```bash
-python3 -m pytest tests/
-```
-
-### Adding New Species
-
-1. Update `data/codon_preferences/CodonPreference.txt`
-2. Add species code to supported list
-3. Test with example sequences
 
 ## Requirements
 
@@ -117,12 +69,6 @@ python3 -m pytest tests/
 
 See LICENSE file for details
 
-## Contributing
-
-Contributions welcome! Please ensure:
-- Code follows PEP 8 style guide
-- Functions have docstrings
-- Tests cover new functionality
 
 ## References
 
