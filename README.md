@@ -65,12 +65,4 @@ Each mutation generates a file with primer pairs showing:
 - Python 3.7+
 - BioPython (for sequence analysis)
 
-## License
 
-See LICENSE file for details
-
-
-## References
-
-- Overlap Extension PCR primer design
-- Codon usage optimization for expression
