@@ -1,0 +1,4 @@
+# GitHub Copilot opt-out configuration
+# This file prevents GitHub Copilot from using this repository's code for training
+
+opt_out: true
