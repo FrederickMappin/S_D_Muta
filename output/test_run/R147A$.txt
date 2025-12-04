@@ -1,0 +1,1025 @@
+primer              sequence                                length    GC        Tm        Overlap_Tm     
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCG             27        77.78     71.74     64.58          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTA             27        70.37     69.14     64.58          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCG             27        77.78     71.74     64.58          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTAT            28        67.86     68.9      64.58          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCG             27        77.78     71.74     64.58          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATA           29        65.52     68.23     64.58          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCG             27        77.78     71.74     64.58          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATAG          30        66.67     68.37     64.58          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGT            28        75.0      72.45     64.58          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTA             27        70.37     69.14     64.58          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGT            28        75.0      72.45     64.58          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTAT            28        67.86     68.9      64.58          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGT            28        75.0      72.45     64.58          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATA           29        65.52     68.23     64.58          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGT            28        75.0      72.45     64.58          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATAG          30        66.67     68.37     64.58          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTT           29        72.41     72.23     64.58          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTA             27        70.37     69.14     64.58          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTT           29        72.41     72.23     64.58          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTAT            28        67.86     68.9      64.58          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTT           29        72.41     72.23     64.58          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATA           29        65.52     68.23     64.58          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTT           29        72.41     72.23     64.58          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATAG          30        66.67     68.37     64.58          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTTT          30        70.0      72.02     64.58          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTA             27        70.37     69.14     64.58          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTTT          30        70.0      72.02     64.58          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTAT            28        67.86     68.9      64.58          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTTT          30        70.0      72.02     64.58          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATA           29        65.52     68.23     64.58          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTTT          30        70.0      72.02     64.58          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATAG          30        66.67     68.37     64.58          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCG             27        77.78     71.74     65.44          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTA            28        67.86     69.72     65.44          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCG             27        77.78     71.74     65.44          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTAT           29        65.52     69.47     65.44          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCG             27        77.78     71.74     65.44          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATA          30        63.33     68.8      65.44          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCG             27        77.78     71.74     65.44          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATAG         31        64.52     68.91     65.44          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGT            28        75.0      72.45     65.44          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTA            28        67.86     69.72     65.44          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGT            28        75.0      72.45     65.44          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTAT           29        65.52     69.47     65.44          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGT            28        75.0      72.45     65.44          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATA          30        63.33     68.8      65.44          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGT            28        75.0      72.45     65.44          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATAG         31        64.52     68.91     65.44          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTT           29        72.41     72.23     65.44          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTA            28        67.86     69.72     65.44          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTT           29        72.41     72.23     65.44          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTAT           29        65.52     69.47     65.44          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTT           29        72.41     72.23     65.44          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATA          30        63.33     68.8      65.44          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTT           29        72.41     72.23     65.44          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATAG         31        64.52     68.91     65.44          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTTT          30        70.0      72.02     65.44          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTA            28        67.86     69.72     65.44          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTTT          30        70.0      72.02     65.44          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTAT           29        65.52     69.47     65.44          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTTT          30        70.0      72.02     65.44          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATA          30        63.33     68.8      65.44          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTTT          30        70.0      72.02     65.44          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATAG         31        64.52     68.91     65.44          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCG             27        77.78     71.74     65.76          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTA           29        68.97     69.8      65.76          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCG             27        77.78     71.74     65.76          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTAT          30        66.67     69.55     65.76          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCG             27        77.78     71.74     65.76          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATA         31        64.52     68.91     65.76          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCG             27        77.78     71.74     65.76          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATAG        32        65.62     69.01     65.76          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGT            28        75.0      72.45     65.76          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTA           29        68.97     69.8      65.76          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGT            28        75.0      72.45     65.76          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTAT          30        66.67     69.55     65.76          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGT            28        75.0      72.45     65.76          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATA         31        64.52     68.91     65.76          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGT            28        75.0      72.45     65.76          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATAG        32        65.62     69.01     65.76          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTT           29        72.41     72.23     65.76          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTA           29        68.97     69.8      65.76          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTT           29        72.41     72.23     65.76          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTAT          30        66.67     69.55     65.76          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTT           29        72.41     72.23     65.76          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATA         31        64.52     68.91     65.76          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTT           29        72.41     72.23     65.76          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATAG        32        65.62     69.01     65.76          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTTT          30        70.0      72.02     65.76          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTA           29        68.97     69.8      65.76          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTTT          30        70.0      72.02     65.76          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTAT          30        66.67     69.55     65.76          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTTT          30        70.0      72.02     65.76          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATA         31        64.52     68.91     65.76          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTTT          30        70.0      72.02     65.76          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATAG        32        65.62     69.01     65.76          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCG            28        78.57     72.86     66.27          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTA             27        70.37     69.14     66.27          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCG            28        78.57     72.86     66.27          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTAT            28        67.86     68.9      66.27          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCG            28        78.57     72.86     66.27          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATA           29        65.52     68.23     66.27          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCG            28        78.57     72.86     66.27          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATAG          30        66.67     68.37     66.27          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGT           29        75.86     73.52     66.27          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTA             27        70.37     69.14     66.27          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGT           29        75.86     73.52     66.27          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTAT            28        67.86     68.9      66.27          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGT           29        75.86     73.52     66.27          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATA           29        65.52     68.23     66.27          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGT           29        75.86     73.52     66.27          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATAG          30        66.67     68.37     66.27          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTT          30        73.33     73.27     66.27          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTA             27        70.37     69.14     66.27          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTT          30        73.33     73.27     66.27          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTAT            28        67.86     68.9      66.27          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTT          30        73.33     73.27     66.27          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATA           29        65.52     68.23     66.27          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTT          30        73.33     73.27     66.27          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATAG          30        66.67     68.37     66.27          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT         31        70.97     73.04     66.27          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTA             27        70.37     69.14     66.27          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT         31        70.97     73.04     66.27          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTAT            28        67.86     68.9      66.27          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT         31        70.97     73.04     66.27          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATA           29        65.52     68.23     66.27          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT         31        70.97     73.04     66.27          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATAG          30        66.67     68.37     66.27          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCG            28        78.57     72.86     67.05          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTA            28        67.86     69.72     67.05          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCG            28        78.57     72.86     67.05          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTAT           29        65.52     69.47     67.05          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCG            28        78.57     72.86     67.05          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATA          30        63.33     68.8      67.05          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCG            28        78.57     72.86     67.05          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATAG         31        64.52     68.91     67.05          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGT           29        75.86     73.52     67.05          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTA            28        67.86     69.72     67.05          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGT           29        75.86     73.52     67.05          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTAT           29        65.52     69.47     67.05          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGT           29        75.86     73.52     67.05          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATA          30        63.33     68.8      67.05          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGT           29        75.86     73.52     67.05          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATAG         31        64.52     68.91     67.05          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTT          30        73.33     73.27     67.05          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTA            28        67.86     69.72     67.05          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTT          30        73.33     73.27     67.05          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTAT           29        65.52     69.47     67.05          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTT          30        73.33     73.27     67.05          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATA          30        63.33     68.8      67.05          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTT          30        73.33     73.27     67.05          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATAG         31        64.52     68.91     67.05          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT         31        70.97     73.04     67.05          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTA            28        67.86     69.72     67.05          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT         31        70.97     73.04     67.05          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTAT           29        65.52     69.47     67.05          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT         31        70.97     73.04     67.05          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATA          30        63.33     68.8      67.05          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT         31        70.97     73.04     67.05          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATAG         31        64.52     68.91     67.05          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCG            28        78.57     72.86     67.28          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTA           29        68.97     69.8      67.28          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCG            28        78.57     72.86     67.28          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTAT          30        66.67     69.55     67.28          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCG            28        78.57     72.86     67.28          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATA         31        64.52     68.91     67.28          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCG            28        78.57     72.86     67.28          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATAG        32        65.62     69.01     67.28          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGT           29        75.86     73.52     67.28          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTA           29        68.97     69.8      67.28          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGT           29        75.86     73.52     67.28          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTAT          30        66.67     69.55     67.28          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGT           29        75.86     73.52     67.28          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATA         31        64.52     68.91     67.28          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGT           29        75.86     73.52     67.28          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATAG        32        65.62     69.01     67.28          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTT          30        73.33     73.27     67.28          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTA           29        68.97     69.8      67.28          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTT          30        73.33     73.27     67.28          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTAT          30        66.67     69.55     67.28          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTT          30        73.33     73.27     67.28          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATA         31        64.52     68.91     67.28          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTT          30        73.33     73.27     67.28          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATAG        32        65.62     69.01     67.28          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT         31        70.97     73.04     67.28          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTA           29        68.97     69.8      67.28          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT         31        70.97     73.04     67.28          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTAT          30        66.67     69.55     67.28          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT         31        70.97     73.04     67.28          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATA         31        64.52     68.91     67.28          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT         31        70.97     73.04     67.28          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATAG        32        65.62     69.01     67.28          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCG             27        77.78     71.74     67.28          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTA          30        70.0      70.91     67.28          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCG             27        77.78     71.74     67.28          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTAT         31        67.74     70.64     67.28          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCG             27        77.78     71.74     67.28          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATA        32        65.62     69.98     67.28          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCG             27        77.78     71.74     67.28          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATAG       33        66.67     70.04     67.28          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGT            28        75.0      72.45     67.28          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTA          30        70.0      70.91     67.28          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGT            28        75.0      72.45     67.28          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTAT         31        67.74     70.64     67.28          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGT            28        75.0      72.45     67.28          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATA        32        65.62     69.98     67.28          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGT            28        75.0      72.45     67.28          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATAG       33        66.67     70.04     67.28          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTT           29        72.41     72.23     67.28          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTA          30        70.0      70.91     67.28          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTT           29        72.41     72.23     67.28          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTAT         31        67.74     70.64     67.28          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTT           29        72.41     72.23     67.28          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATA        32        65.62     69.98     67.28          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTT           29        72.41     72.23     67.28          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATAG       33        66.67     70.04     67.28          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTTT          30        70.0      72.02     67.28          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTA          30        70.0      70.91     67.28          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTTT          30        70.0      72.02     67.28          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTAT         31        67.74     70.64     67.28          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTTT          30        70.0      72.02     67.28          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATA        32        65.62     69.98     67.28          
+
+
+R147A_overlap_5     CTGGAGGCCGCCGGCTTCGTGAGGCCGTTT          30        70.0      72.02     67.28          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATAG       33        66.67     70.04     67.28          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCG           29        75.86     73.52     67.29          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTA             27        70.37     69.14     67.29          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCG           29        75.86     73.52     67.29          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTAT            28        67.86     68.9      67.29          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCG           29        75.86     73.52     67.29          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATA           29        65.52     68.23     67.29          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCG           29        75.86     73.52     67.29          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATAG          30        66.67     68.37     67.29          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGT          30        73.33     74.14     67.29          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTA             27        70.37     69.14     67.29          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGT          30        73.33     74.14     67.29          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTAT            28        67.86     68.9      67.29          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGT          30        73.33     74.14     67.29          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATA           29        65.52     68.23     67.29          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGT          30        73.33     74.14     67.29          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATAG          30        66.67     68.37     67.29          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT         31        70.97     73.88     67.29          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTA             27        70.37     69.14     67.29          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT         31        70.97     73.88     67.29          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTAT            28        67.86     68.9      67.29          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT         31        70.97     73.88     67.29          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATA           29        65.52     68.23     67.29          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT         31        70.97     73.88     67.29          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATAG          30        66.67     68.37     67.29          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT        32        68.75     73.63     67.29          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTA             27        70.37     69.14     67.29          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT        32        68.75     73.63     67.29          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTAT            28        67.86     68.9      67.29          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT        32        68.75     73.63     67.29          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATA           29        65.52     68.23     67.29          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT        32        68.75     73.63     67.29          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATAG          30        66.67     68.37     67.29          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCG          30        76.67     73.42     67.49          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTA             27        70.37     69.14     67.49          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCG          30        76.67     73.42     67.49          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTAT            28        67.86     68.9      67.49          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCG          30        76.67     73.42     67.49          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATA           29        65.52     68.23     67.49          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCG          30        76.67     73.42     67.49          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATAG          30        66.67     68.37     67.49          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGT         31        74.19     74.02     67.49          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTA             27        70.37     69.14     67.49          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGT         31        74.19     74.02     67.49          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTAT            28        67.86     68.9      67.49          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGT         31        74.19     74.02     67.49          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATA           29        65.52     68.23     67.49          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGT         31        74.19     74.02     67.49          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATAG          30        66.67     68.37     67.49          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT        32        71.88     73.77     67.49          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTA             27        70.37     69.14     67.49          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT        32        71.88     73.77     67.49          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTAT            28        67.86     68.9      67.49          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT        32        71.88     73.77     67.49          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATA           29        65.52     68.23     67.49          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT        32        71.88     73.77     67.49          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATAG          30        66.67     68.37     67.49          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT       33        69.7      73.54     67.49          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTA             27        70.37     69.14     67.49          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT       33        69.7      73.54     67.49          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTAT            28        67.86     68.9      67.49          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT       33        69.7      73.54     67.49          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATA           29        65.52     68.23     67.49          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT       33        69.7      73.54     67.49          
+R147A_overlap_3     CACGAAGCCGGCGGCCTCCAGGTCGTATAG          30        66.67     68.37     67.49          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCG           29        75.86     73.52     68.02          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTA            28        67.86     69.72     68.02          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCG           29        75.86     73.52     68.02          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTAT           29        65.52     69.47     68.02          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCG           29        75.86     73.52     68.02          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATA          30        63.33     68.8      68.02          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCG           29        75.86     73.52     68.02          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATAG         31        64.52     68.91     68.02          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGT          30        73.33     74.14     68.02          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTA            28        67.86     69.72     68.02          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGT          30        73.33     74.14     68.02          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTAT           29        65.52     69.47     68.02          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGT          30        73.33     74.14     68.02          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATA          30        63.33     68.8      68.02          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGT          30        73.33     74.14     68.02          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATAG         31        64.52     68.91     68.02          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT         31        70.97     73.88     68.02          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTA            28        67.86     69.72     68.02          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT         31        70.97     73.88     68.02          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTAT           29        65.52     69.47     68.02          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT         31        70.97     73.88     68.02          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATA          30        63.33     68.8      68.02          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT         31        70.97     73.88     68.02          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATAG         31        64.52     68.91     68.02          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT        32        68.75     73.63     68.02          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTA            28        67.86     69.72     68.02          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT        32        68.75     73.63     68.02          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTAT           29        65.52     69.47     68.02          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT        32        68.75     73.63     68.02          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATA          30        63.33     68.8      68.02          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT        32        68.75     73.63     68.02          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATAG         31        64.52     68.91     68.02          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCG          30        76.67     73.42     68.18          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTA            28        67.86     69.72     68.18          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCG          30        76.67     73.42     68.18          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTAT           29        65.52     69.47     68.18          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCG          30        76.67     73.42     68.18          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATA          30        63.33     68.8      68.18          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCG          30        76.67     73.42     68.18          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATAG         31        64.52     68.91     68.18          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGT         31        74.19     74.02     68.18          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTA            28        67.86     69.72     68.18          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGT         31        74.19     74.02     68.18          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTAT           29        65.52     69.47     68.18          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGT         31        74.19     74.02     68.18          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATA          30        63.33     68.8      68.18          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGT         31        74.19     74.02     68.18          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATAG         31        64.52     68.91     68.18          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT        32        71.88     73.77     68.18          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTA            28        67.86     69.72     68.18          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT        32        71.88     73.77     68.18          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTAT           29        65.52     69.47     68.18          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT        32        71.88     73.77     68.18          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATA          30        63.33     68.8      68.18          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT        32        71.88     73.77     68.18          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATAG         31        64.52     68.91     68.18          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT       33        69.7      73.54     68.18          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTA            28        67.86     69.72     68.18          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT       33        69.7      73.54     68.18          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTAT           29        65.52     69.47     68.18          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT       33        69.7      73.54     68.18          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATA          30        63.33     68.8      68.18          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT       33        69.7      73.54     68.18          
+R147A_overlap_3     TCACGAAGCCGGCGGCCTCCAGGTCGTATAG         31        64.52     68.91     68.18          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCG           29        75.86     73.52     68.19          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTA           29        68.97     69.8      68.19          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCG           29        75.86     73.52     68.19          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTAT          30        66.67     69.55     68.19          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCG           29        75.86     73.52     68.19          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATA         31        64.52     68.91     68.19          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCG           29        75.86     73.52     68.19          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATAG        32        65.62     69.01     68.19          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGT          30        73.33     74.14     68.19          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTA           29        68.97     69.8      68.19          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGT          30        73.33     74.14     68.19          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTAT          30        66.67     69.55     68.19          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGT          30        73.33     74.14     68.19          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATA         31        64.52     68.91     68.19          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGT          30        73.33     74.14     68.19          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATAG        32        65.62     69.01     68.19          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT         31        70.97     73.88     68.19          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTA           29        68.97     69.8      68.19          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT         31        70.97     73.88     68.19          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTAT          30        66.67     69.55     68.19          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT         31        70.97     73.88     68.19          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATA         31        64.52     68.91     68.19          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT         31        70.97     73.88     68.19          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATAG        32        65.62     69.01     68.19          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT        32        68.75     73.63     68.19          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTA           29        68.97     69.8      68.19          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT        32        68.75     73.63     68.19          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTAT          30        66.67     69.55     68.19          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT        32        68.75     73.63     68.19          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATA         31        64.52     68.91     68.19          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT        32        68.75     73.63     68.19          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATAG        32        65.62     69.01     68.19          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCG          30        76.67     73.42     68.34          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTA           29        68.97     69.8      68.34          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCG          30        76.67     73.42     68.34          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTAT          30        66.67     69.55     68.34          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCG          30        76.67     73.42     68.34          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATA         31        64.52     68.91     68.34          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCG          30        76.67     73.42     68.34          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATAG        32        65.62     69.01     68.34          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGT         31        74.19     74.02     68.34          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTA           29        68.97     69.8      68.34          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGT         31        74.19     74.02     68.34          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTAT          30        66.67     69.55     68.34          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGT         31        74.19     74.02     68.34          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATA         31        64.52     68.91     68.34          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGT         31        74.19     74.02     68.34          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATAG        32        65.62     69.01     68.34          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT        32        71.88     73.77     68.34          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTA           29        68.97     69.8      68.34          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT        32        71.88     73.77     68.34          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTAT          30        66.67     69.55     68.34          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT        32        71.88     73.77     68.34          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATA         31        64.52     68.91     68.34          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT        32        71.88     73.77     68.34          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATAG        32        65.62     69.01     68.34          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT       33        69.7      73.54     68.34          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTA           29        68.97     69.8      68.34          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT       33        69.7      73.54     68.34          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTAT          30        66.67     69.55     68.34          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT       33        69.7      73.54     68.34          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATA         31        64.52     68.91     68.34          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT       33        69.7      73.54     68.34          
+R147A_overlap_3     CTCACGAAGCCGGCGGCCTCCAGGTCGTATAG        32        65.62     69.01     68.34          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCG            28        78.57     72.86     68.69          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTA          30        70.0      70.91     68.69          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCG            28        78.57     72.86     68.69          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTAT         31        67.74     70.64     68.69          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCG            28        78.57     72.86     68.69          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATA        32        65.62     69.98     68.69          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCG            28        78.57     72.86     68.69          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATAG       33        66.67     70.04     68.69          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGT           29        75.86     73.52     68.69          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTA          30        70.0      70.91     68.69          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGT           29        75.86     73.52     68.69          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTAT         31        67.74     70.64     68.69          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGT           29        75.86     73.52     68.69          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATA        32        65.62     69.98     68.69          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGT           29        75.86     73.52     68.69          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATAG       33        66.67     70.04     68.69          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTT          30        73.33     73.27     68.69          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTA          30        70.0      70.91     68.69          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTT          30        73.33     73.27     68.69          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTAT         31        67.74     70.64     68.69          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTT          30        73.33     73.27     68.69          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATA        32        65.62     69.98     68.69          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTT          30        73.33     73.27     68.69          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATAG       33        66.67     70.04     68.69          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT         31        70.97     73.04     68.69          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTA          30        70.0      70.91     68.69          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT         31        70.97     73.04     68.69          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTAT         31        67.74     70.64     68.69          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT         31        70.97     73.04     68.69          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATA        32        65.62     69.98     68.69          
+
+
+R147A_overlap_5     CCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT         31        70.97     73.04     68.69          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATAG       33        66.67     70.04     68.69          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCG           29        75.86     73.52     69.54          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTA          30        70.0      70.91     69.54          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCG           29        75.86     73.52     69.54          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTAT         31        67.74     70.64     69.54          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCG           29        75.86     73.52     69.54          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATA        32        65.62     69.98     69.54          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCG           29        75.86     73.52     69.54          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATAG       33        66.67     70.04     69.54          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGT          30        73.33     74.14     69.54          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTA          30        70.0      70.91     69.54          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGT          30        73.33     74.14     69.54          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTAT         31        67.74     70.64     69.54          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGT          30        73.33     74.14     69.54          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATA        32        65.62     69.98     69.54          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGT          30        73.33     74.14     69.54          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATAG       33        66.67     70.04     69.54          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT         31        70.97     73.88     69.54          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTA          30        70.0      70.91     69.54          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT         31        70.97     73.88     69.54          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTAT         31        67.74     70.64     69.54          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT         31        70.97     73.88     69.54          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATA        32        65.62     69.98     69.54          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT         31        70.97     73.88     69.54          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATAG       33        66.67     70.04     69.54          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT        32        68.75     73.63     69.54          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTA          30        70.0      70.91     69.54          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT        32        68.75     73.63     69.54          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTAT         31        67.74     70.64     69.54          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT        32        68.75     73.63     69.54          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATA        32        65.62     69.98     69.54          
+
+
+R147A_overlap_5     ACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT        32        68.75     73.63     69.54          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATAG       33        66.67     70.04     69.54          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCG          30        76.67     73.42     69.61          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTA          30        70.0      70.91     69.61          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCG          30        76.67     73.42     69.61          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTAT         31        67.74     70.64     69.61          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCG          30        76.67     73.42     69.61          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATA        32        65.62     69.98     69.61          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCG          30        76.67     73.42     69.61          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATAG       33        66.67     70.04     69.61          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGT         31        74.19     74.02     69.61          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTA          30        70.0      70.91     69.61          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGT         31        74.19     74.02     69.61          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTAT         31        67.74     70.64     69.61          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGT         31        74.19     74.02     69.61          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATA        32        65.62     69.98     69.61          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGT         31        74.19     74.02     69.61          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATAG       33        66.67     70.04     69.61          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT        32        71.88     73.77     69.61          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTA          30        70.0      70.91     69.61          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT        32        71.88     73.77     69.61          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTAT         31        67.74     70.64     69.61          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT        32        71.88     73.77     69.61          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATA        32        65.62     69.98     69.61          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTT        32        71.88     73.77     69.61          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATAG       33        66.67     70.04     69.61          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT       33        69.7      73.54     69.61          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTA          30        70.0      70.91     69.61          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT       33        69.7      73.54     69.61          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTAT         31        67.74     70.64     69.61          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT       33        69.7      73.54     69.61          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATA        32        65.62     69.98     69.61          
+
+
+R147A_overlap_5     GACCTGGAGGCCGCCGGCTTCGTGAGGCCGTTT       33        69.7      73.54     69.61          
+R147A_overlap_3     CCTCACGAAGCCGGCGGCCTCCAGGTCGTATAG       33        66.67     70.04     69.61          
