@@ -8,7 +8,6 @@ A professional Python tool for designing mutagenic primers for site-directed mut
 - **Species-specific codons** - Uses codon preference tables for optimal expression
 - **Thermal analysis** - Calculates Tm values and GC content for each primer
 - **Sorted output** - Primers ranked by overlap Tm for easy selection
-- **Modular architecture** - Clean separation of concerns with reusable utilities
 
 ## Quick Start
 
