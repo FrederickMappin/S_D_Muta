@@ -1,4 +1,4 @@
-# SDM Mutagenesis - Site-Directed Mutagenesis Primer Generator
+Site-Directed Mutagenesis Primer Generator
 
 A professional Python tool for designing mutagenic primers for site-directed mutagenesis (SDM) using overlap extension PCR. Based on work of [mds-mutagenesis](https://github.com/shiqiang-lin/sdm-mutagenesis) 
 
