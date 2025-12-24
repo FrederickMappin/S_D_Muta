@@ -1,4 +1,4 @@
-# Site-Directed Mutagenesis Primer Generator
+# SD-Muta (Site-Directed Mutagenesis Primer Generator)
 
 Python tool for designing mutagenic primers for site-directed mutagenesis (SDM) using overlap extension PCR. Based on work of [mds-mutagenesis](https://github.com/shiqiang-lin/sdm-mutagenesis) 
 
